@@ -1,0 +1,350 @@
+---
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+---
+
+name: title
+class: center, middle, hide_logo
+
+```{r, eval=FALSE, echo = F}
+dir.create("style_file")
+```
+
+```{r xaringen-themer, echo=F, warning=FALSE, message=FALSE}
+#install.packages("xaringan")
+#install.packages("xaringanthemer")
+#library(xaringanthemer)
+#style_mono_light(
+#  base_color = "#001c05",
+#  header_font_google = google_font("Times New Roman"),
+#  text_font_google   = google_font("Times New Roman", "300", "300i"),
+#  code_font_google   = google_font("Fira Mono")
+#)
+
+#colors = c(
+#  red = "#f34213",
+#  purple = "#3e2f5b",
+#  orange = "#ff8811",
+#  green = "#136f63"
+#)
+
+library(xaringanthemer)
+library(xaringanExtra)
+library(readxl)
+library(tidyverse)
+library(ggalt)
+library(hrbrthemes)
+library(reactable)
+htmltools::tagList(rmarkdown::html_dependency_font_awesome()) 
+
+extra_css <- list(
+  ".cit"  = list("font-size" = "70%",
+                 "color" = "#6AEE3E90"),
+  ".em05" = list("font-size" ="0.5em"),
+  ".em06" = list("font-size" ="0.6em"),
+  ".em07" = list("font-size" ="0.7em"),
+  ".em08" = list("font-size" ="0.8em"),
+  ".em09" = list("font-size" ="0.9em"),
+  ".em11" = list("font-size" ="1.1em"),
+  ".em12" = list("font-size" ="1.2em"),
+  ".em13" = list("font-size" ="1.3em"),
+  ".em14" = list("font-size" ="1.4em"),
+  ".em15" = list("font-size" ="1.5em"),
+  ".bold" = list("font-weight" = "bold"),
+  ".medium" = list("font-size" = "130%"),
+  ".large" = list("font-size" = "160%"),
+  ".vertmiddle" = list("vertical-align" ="middle"),
+  ".lh15" = list("line-height" =  "1.5"),
+  ".lh16" = list("line-height" =  "1.6"),
+  ".lh18" = list("line-height" =  "1.8"),
+  ".li" = list("line-height" =  "1.5",
+               "font-size" = "160%",
+               "font-weight" = "bold"),
+  ".phgreen" = list("color" = "#50B32E"), 
+  ".phgreenlight" = list("color" = "#8CD000"),
+  ".lightgrey" = list("color" ="#b3b3b3"),
+  ".my-footer" = list("background-color" = "#1a1917",
+                      "position" = "absolute",
+                      "bottom" = "0px",
+                      "left" = "0px",
+                      "height" = "20px",
+                      "width" = "100%"),
+  ".my-footer span" = list("font-size" = "10pt", 
+                           "color" = "#F7F8FA",
+                           "position" = "absolute",
+                           "left" = "15px",
+                           "bottom" = "2px"),
+  ".remark-slide-number" = list("bottom" = "18px"),
+  ".li" = list("line-height" =  "4"),
+  ".scroll-box-18" = list("height" ="18em",
+                           "overflow-y" = "scroll"),
+  ".scroll-box-23" = list("height" ="23em",
+                           "overflow-y" = "scroll"))
+
+style_mono_accent_inverse(
+  #text_color = "#ffffff",
+  base_color           = "#8CD000",
+  white_color = "#FFFFFF",
+  black_color = "#272822",
+  header_font_google   = google_font("Roboto", "700"),
+  text_font_google     = google_font("Roboto", "500"),
+  code_font_google     = google_font("Droid Mono"),
+  extra_css = extra_css#,
+  #inverse_background_color = "#000000"
+  #inverse_text_color = "#ffffff",
+  #link_color = "#6AEE3E"
+)
+
+use_logo(
+  image_url = "https://live.staticflickr.com/65535/50974533397_9ac99f9a48_o.png",
+  width = "180px",
+  position = css_position(top = "1.5em", right = "1.5em")
+)
+
+use_editable(expires = 1)
+```
+
+## .phgreenlight[Lehrpersonen vertrauen wissenschaftlicher Evidenz, insbesondere wenn sie ihre Überzeugung bestätigt]
+<br>
+
+.em13[<u>Kirstin Schmidt</u><sup>1</sup>, Tom Rosman<sup>2</sup>, Colin Cramer<sup>3</sup>, Kris-Stephen Besa<sup>4</sup> and Samuel Merk<sup>1</sup>]
+
+
+<sup>1</sup> Pädagogische Hochschule Karlsruhe <br>
+<sup>2</sup> ZPID - Leibniz-Institut für Psychologie Trier <br>
+<sup>3</sup> Eberhard Karls Universität Tübingen <br>
+<sup>4</sup> Universität Münster <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+.phgreen[Einzelbeitrag AEPF 2022| 22.09.2022]  
+
+???
+
+
+---
+
+
+## .phgreenlight[Structure `r fontawesome::fa_i(name = "list-ul")`]
+* Evidenceinformierte Schulpraxis  <i class="fas fa-school"></i>
+
+* Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "anchor")`
+  * Informationsquelle
+  * (Epistemische Überzeugungen)
+  * Confirmation Bias
+
+* Studie zu Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
+  * Stichprobe `r fontawesome::fa_i(name = "users")`
+  * Design and Materialien `r fontawesome::fa_i(name = "align-left")`
+  * Hypothesen <i class="fas fa-question"></i>
+  * Ergebnisse <i class="far fa-chart-bar"></i>
+  
+* Diskussion <i class="fab fa-weixin"></i>
+
+* Referenzen <i class="fas fa-book-open"></i>
+
+
+---
+class: inverse, center, middle
+
+# Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>
+
+---
+## .phgreenlight[Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>]
+
+* unterschiedliche Arten von Evidenz wie z.B. *.white[Forschungsergebnisse]* beim professionellen Handeln berücksichtigen <br>
+  &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler*innenleistung <br>
+  .em06[.lightgrey[(z.B. Brown et al., 2017; Schildkamp, 2019)]] 
+<br>
+* evidenzinformiertes Handeln ist für wissenschaftliche Laien häufig herausfordernd .em06[.lightgrey[(Bromme et al., 2010; Bromme & Goldman, 2014)]]
+* Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren
+  * X
+  * XX
+  * XXX
+  
+???
+
+---
+class: inverse, center, middle
+
+# Vertrauen in wissenschaftliche Evidenz  `r fontawesome::fa_i(name = "anchor")` 
+
+
+---
+## .phgreenlight[Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "anchor")`]
+
+* Anchoring = .phgreen[a numeric judgment is assimilated to a previous known standard] .em06[(Mochon & Frederick, 2013; Tversky & Kahneman, 1974)]
+<br>
+<br>
+* Different theories exist how anchoring occurs &rarr; mechanisms behind the anchoring effect are not completely clarified .em06[(Röseler et al., 2022)]
+<br>
+<br>
+* Some results of previous research:
+  * Anchoring effects can be found even after a longer period of time .em06[(Mussweiler, 2001; Yoon & Fong, 2019)] 
+  * Expertise does not necessarily prevent from Anchoring .em06[(Dünnebier et al., 2009)]
+  * Relevant anchors lead to larger effects than random anchors .em06[(Röseler et al., 2022)]
+<br>
+<br>
+* "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty". .em06[(Tversky und Kahneman, 1974, p. 9)]
+
+
+???
+- Example Anchoring: Participants in an experiment were asked to estimate how old Gandhi became (Strack & Mussweiler, 1997) 
+  - before their estimations, one group got an anchor of 9 (estimation: 50) and the other of 140 (estimation: 67) ....
+- The Anchoring effect has been studied for half a century - nevertheless are the mechanisms behind the effect not completely clarified
+- There are different theories existing how anchoring occurs, but these mechanisms behind are not our focus today - so let me tell you about some results of some previous research
+
+- in the long run, it's absolutely rational using Anchors as a helpful estimate
+- but overcoming this influence leads to more precise estimations
+- and when we want teachers to engage with evidence, data as well as scientific research, we need them to make precise estimations
+- This leads to the quote of Tversky and Kahneman, whom have most prominently described anchoring effects...
+- "A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty" (Tversky und Kahneman, 1974, p. 9)
+- -> situations of uncertainty are characteristic of the educational systems, of schools and teaching  -> like the Anchoring effect in the context of EIP
+---
+class: inverse, center, middle
+
+# Studie zu Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
+
+---
+
+## .phgreenlight[Stichprobe `r fontawesome::fa_i(name = "users")`]
+
+<center> .phgreen[*N* = 68 student teachers from the Karlsruhe University of Education] </center>
+<br>
+<br>
+* 70.59 % female student teachers
+<br>
+<br>
+* M<sub>semesters</sub> = 4.73 (*SD* = 3.02)
+<br>
+<br>
+* 69.12 % of the students studied at least one STEM subject
+
+???
+
+- To answer this research question, we conducted an online experiment with 233 student teachers from the KA University of Eduaction.
+- here you can get a quick impression of the demographics of our sample- most important information is that our participants were mostly female and studied at least one STEM subject
+
+---
+
+## .phgreenlight[Design und Materialien `r fontawesome::fa_i(name = "align-left")`]
+
+<img style="vertical-align:middle" src="images/study_one_design_light.pdf">
+
+???
+
+- Our study materials included scientific study reports on two different topics from educational research in which either a small, a large or no anchor was included.
+- Here you can see an example of such a study report on discovery learning
+- Let me explain the material and design in more detail
+- In general, the study reports were structured identically: 
+- They first informed about 
+  - the research question - a group of educational researchers was interested in, 
+  - then about the experimental design of the study with one experimental and one control group
+  - as well as the drawn sample size to investigate the research question.
+- Each student teacher randomly received two different study reports where the drawn sample size also varied randomly - either a small sample size of 15 participants or a large sample size of 500 participants per group.
+- This approach resulted in 
+  - two control groups, where student teachers were presented with the same sample size in both study reports, so no anchor was set, e.g., two times 15 participants 
+  - and two experimental groups either with a small or a large anchor. For example the first EG was presented with a small anchor - a sample size of 15 and then a large sample size of 500 participants
+- After reading the study report, participants both in the ExperimentalGs and CGs had to answer different questions.
+- For today's presentation only one of these questions is important, namely the one right at the bottom outlined in green.
+- Referring to this, the student teachers had to decide whether ‘the number of sampled students is appropriate to answer the research question' 
+- they had to give their answer on a Likert-scale ranging from totally disagree to totally agree
+---
+## .phgreenlight[Hypothesen <i class="fas fa-question"></i>]
+
+<br>
+
+H<sub>1</sub>: Wenn Lehrpersonen Aussagen zu bestimmten Themen aus der Bildungswissenschaft präsentiert werden, zeigen sie mehr Vertrauen in diese Aussagen, wenn diese angeblich von einem anderen Lehrer stammen (anekdotische Evidenz), als einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
+
+<br>
+
+.lightgrey[H<sub>2</sub>: Das Vertrauen in bestimmte bildungswissenschaftliche Aussagen kann durch (domänenspezifisches) Vertrauen in Bildungswissenschaften und Vertrauen in Wissenschaft im Allgemeinen vorhergesagt werden.]
+
+<br>
+
+H<sub>3</sub>: Wenn Lehrpersonen mit bestimmten bildungswissenschaftlichen Aussagen konfrontiert sind, zeigen sie mehr Vertrauen in diese Aussagen, wenn diese konsistent (statt inkonsisten) zu ihren Überzeugungen sind.
+
+
+???
+
+- To test this hypothesis we conducted a Bayesian ANOVA.
+
+- And this led to the following results:
+
+---
+## .phgreenlight[Ergebnisse - Hypothese 1]
+
+
+???
+
+---
+## .phgreenlight[Ergebnisse - Hypothese 3]
+
+---
+class: hide_logo
+background-image: url("images/study_two_results_differencevariable.png")
+background-size: contain
+
+
+---
+class: inverse, center, middle
+
+# Diskussion <i class="fab fa-weixin"></i>
+
+???
+
+
+---
+## .phgreenlight[Diskussion <i class="fab fa-weixin"></i>]
+
+* ...
+
+
+???
+
+
+---
+## .phgreenlight[Diskussion <i class="fab fa-weixin"></i>]
+
+* ...
+* ...
+* ... 
+
+
+---
+## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
+
+.em08[
+Bromme, R., Prenzel, M., & Jäger, M. (2014). Empirische Bildungsforschung und evidenzbasierte Bildungspolitik. Zeitschrift für Erziehungswissenschaft, 17(4), 3–54. https://doi.org/10.1007/s11618-014-0514-5 <br>
+Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. Frontiers in Education, 7, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
+Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
+Flood, J., & Brown, C. (2020). Exploring Teachers’ Conceptual Uses of Research as Part of the Development and Scale up of Research-Informed Practices. International Journal of Education Policy and Leadership, 16(10), Article 10. https://doi.org/10.22230/ijepl.2020v16n10a927 <br>
+
+Mandinach, E. B., & Schildkamp, K. (2021). Misconceptions about data-based decision making in education: An exploration of the literature. Studies in Educational Evaluation, 69, 1–10. https://doi.org/10.1016/j.stueduc.2020.100842 <br>
+
+Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. Educational Research, 61(3), 257–273. https://doi.org/10.1080/00131881.2019.1625716 <br>
+Stark, R. (2017). Probleme evidenzbasierter bzw. -Orientierter pädagogischer Praxis. Zeitschrift für Pädagogische Psychologie, 31(2), 99–110. https://doi.org/10.1024/1010-0652/a000201 <br>
+]
+
+
+---
+class: inverse, center, middle
+
+# Thank you for your attention!
+`r fontawesome::fa_i(name = "address-card")`<br>
+Kirstin Schmidt <br>
+Karlsruhe University of Education <br>
+Bismarckstraße 10, <br>
+76133 Karlsruhe <br>
+Germany <br>
+.white[kirstin.schmidt@ph-karlsruhe.de]
