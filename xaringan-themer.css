@@ -391,3 +391,6 @@ table.dataTable.hover tbody tr:hover, table.dataTable.display tbody tr:hover {
   height: 23em;
   overflow-y: scroll;
 }
+.content-box-phgreen {
+  background-color: #8CD000;
+}
