@@ -112,7 +112,7 @@ use_logo(
 use_editable(expires = 1)
 ```
 
-## .phgreenlight[Lehrpersonen vertrauen wissenschaftlicher Evidenz, insbesondere wenn sie ihre Überzeugung bestätigt]
+## .phgreenlight[Lehrpersonen vertrauen wissenschaftlicher Evidenz, <br> insbesondere wenn sie ihre Überzeugung bestätigt]
 <br>
 
 .em13[<u>Kirstin Schmidt</u><sup>1</sup>, Tom Rosman<sup>2</sup>, Colin Cramer<sup>3</sup>, Kris-Stephen Besa<sup>4</sup> and Samuel Merk<sup>1</sup>]
@@ -136,7 +136,7 @@ use_editable(expires = 1)
 
 
 ## .phgreenlight[Structure `r fontawesome::fa_i(name = "list-ul")`]
-* Evidenceinformierte Schulpraxis  <i class="fas fa-school"></i>
+* Evidenzinformierte Schulpraxis  <i class="fas fa-school"></i>
 
 * Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "anchor")`
   * Informationsquelle
