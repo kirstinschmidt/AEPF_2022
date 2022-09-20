@@ -140,7 +140,7 @@ use_editable(expires = 1)
 * Evidenzinformierte Schulpraxis  <i class="fas fa-school"></i>
 
 * Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "check")`
-  * Vertrauen in verschiedene Informationsquelle `r fontawesome::fa_i(name = "list")`
+  * Vertrauen in verschiedene Informationsquellen `r fontawesome::fa_i(name = "list")`
   * Vertrauen und Confirmation Bias `r fontawesome::fa_i(name = "eye-slash")`
 
 * Experimentelle Studie - Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
@@ -215,7 +215,7 @@ class: inverse, center, middle
 - .phgreenlight[__Vertrauen__] als zentraler Prädiktor, inwieweit wissenschaftliche Evidenz positiv evaluiert und berücksichtigt wird .em06[(Bromme et al.,2022; Hendriks et al., 2016)]
 <br>
 <br>
-- subjektive Kriterien wie beispielsweise Überzeugungen können die Bewertung von Vertrauen beeinflussen .em06[(z.B. Dietz & Den Hartong, 2006, Blöbaum, 2016)]
+- subjektive Kriterien wie beispielsweise Überzeugungen können die Bewertung von Vertrauen beeinflussen .em06[(z.B. Dietz & Den Hartong, 2006; Blöbaum, 2016)]
 
 ???
 Kann der Information oder der Person bzw. der Einrichtung vertraut werden, die die Information zur Verfügung stellt?
@@ -255,7 +255,7 @@ Wissenschaftler mehr Expertise, aber weniger Benovolence und Integrität als bei
 * .phgreenlight[__(angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen__]
   + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman,2019)]
   + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen .em06[(Rosman & Merk, 2021)]
-  + höheres Vertrauen in Lehrpersonen als Wissenschaftler:innen, wenn es um praktischen Rat geht .em06[(Hendriks et al., 2021)]
+  + vor allem bei der Sucha nach praktischem Rat .em06[(Hendriks et al., 2021)]
 <br>
 <br>
 
@@ -317,7 +317,7 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 <br>
 * .phgreenlight[im Bildungskontext ist Confirmation Bias] bisher wenig systematisch erforscht
   + qualitative Analysen:
-      * Lehrpersonen suchen nicht nach Daten, die ihre Meinung herausfordern / in Frage stellen .em06[(Van Lommel et al., 2017)]
+     * Lehrpersonen suchen nicht nach Daten, die ihre Meinung herausfordern / in Frage stellen .em06[(Van Lommel et al., 2017)]
       * Wenn Daten nicht zu den Einschätzungen der Lehrperson passen, suchen sie nach Erklärungen, warum die Daten falsch sein könnten .em06[(Andersen, 2020)]
   + quantitative Analyse:
       * Lehramtsstudierende weisen eher einen Confirmation Bias als einen Hindsight Bias bei der Bewertung wissenschaftlicher Studien auf .em06[(Masnick & Zimmermann, 2009)]
@@ -325,7 +325,7 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 <br>
 
 
-.content-box-phgreen[Einseitiger oder fehlender Bezug zu wissenschaftliche Evidenz  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> kann eine angemessene Realisierung evidenzinformierter Praxis erschweren oder sogar verhindern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+.content-box-phgreen[Einseitiger oder fehlender Bezug zu wissenschaftlicher Evidenz  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> kann eine angemessene Realisierung evidenzinformierter Praxis erschweren oder sogar verhindern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
 
 <!-- @SA oder auch hier ein konkretes Beispiel. Hier wäre ein Beispiel schön zu dem es bisher kontroverse Forschungsergebnisse gibt --> 
 
@@ -353,7 +353,7 @@ class: inverse, center, middle
 * Lehrpersonen unterrichten an unterschiedlichen Schularten (z.B. 29,3 % unterrichten an einer Grundschule; 25,8 % unterrichten an einem Gymnasium)
 <br>
 <br>
-.phgreenlight[&rarr; representative Stichprobe] <br>
+.phgreenlight[&rarr; repräsentative Stichprobe] <br>
 .em06[(vgl. Destatis, 2019)]
 
 ???
@@ -367,7 +367,7 @@ class: inverse, center, middle
 
 <br>
 
-H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftlichen Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einem anderen Lehrperson stammen (anekdotische Evidenz)], als einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
+H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftliche Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einem anderen Lehrperson stammen (anekdotische Evidenz)], als von einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
 
 <br>
 
@@ -446,16 +446,16 @@ class: inverse, center, middle
 
 
 `r fontawesome::fa_i(name = "surprise")`
-* .phgreenlight[im Gegensatz zu bisherigen Studien, vertrauen die befragten Lehrpersonen stärker in wissenschaftliche Evidenz als in anekdotische Evidenz] <br>
+* .phgreenlight[im Gegensatz zu bisherigen Studien vertrauen die befragten Lehrpersonen stärker wissenschaftlicher als anekdotischer Evidenz] <br>
 * mögliche Erklärungen für diese unterschiedlichen Ergebnisse: 
   * Vertrauen in konkrete Aussagen vs. Vertrauen in Quellen ohne inhaltliche Aussagen
-  * Beeinflussung durch Publikationsorgan (wissenschaftliche Zeitschrift vs. Lehrerblog) <br> &rarr; Informationen aus sozialen Medien werden im Vergleich zu wissenschaftlicher und anektodischer Evidenz weniger vertrauenswürdig eingeschätzt (Braten)
+  * Beeinflussung durch Publikationsorgan (wissenschaftliche Zeitschrift vs. Lehrerblog) <br> &rarr; Informationen aus sozialen Medien werden im Vergleich zu wissenschaftlicher und anektodischer Evidenz weniger vertrauenswürdig eingeschätzt (Braten &...)
 <br>
 <br>
 <br> 
 
 `r fontawesome::fa_i(name = "check-double")`
-* .phgreenlight[im Einklang mit bisherigen Studien, weisen die befragten Lehrpersonen einen starken Confirmation Bias auf] <br> 
+* .phgreenlight[im Einklang mit bisherigen Studien weisen die befragten Lehrpersonen einen starken Confirmation Bias auf] <br> 
   * selektives Vertrauen und folglich selektive Bezugnahme auf wissenschaftliche Evidenz als Barriere evidenzinformierter Praxis
   * Implikationen für weitere Studien: 
       + Berücksichtigung der Stärke der Überzeugungen
