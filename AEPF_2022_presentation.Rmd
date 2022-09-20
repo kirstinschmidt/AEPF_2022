@@ -426,8 +426,11 @@ background-color: white
 ???
 
 ---
-## .phgreenlight[(vorläufige) Ergebnisse <i class="far fa-chart-bar"></i>]
 
+class: hide_logo
+background-image: url("images/Tabelle_Ergebnisse.png")
+background-size: contain
+background-color: white
 
 ---
 class: inverse, center, middle
@@ -456,7 +459,7 @@ class: inverse, center, middle
   * selektives Vertrauen und folglich selektive Bezugnahme auf wissenschaftliche Evidenz als Barriere evidenzinformierter Praxis
   * Implikationen für weitere Studien: 
       + Berücksichtigung der Stärke der Überzeugungen
-      + Analyse weiterer Selektionskriterien wie z.B. 
+      + Analyse weiterer Selektionskriterien wie z.B. bildungswissenschaftliche Kompetenz der Lehrperson, Forschungsparadigmen
 
 
 ???
