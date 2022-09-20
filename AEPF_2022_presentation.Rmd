@@ -113,7 +113,7 @@ use_logo(
 use_editable(expires = 1)
 ```
 
-## .phgreenlight[Lehrpersonen <br> vertrauen wissenschaftlicher Evidenz, <br> insbesondere wenn sie ihre Überzeugung bestätigt]
+## .phgreenlight[Lehrpersonen <br> vertrauen wissenschaftlicher Evidenz -<br> insbesondere wenn sie ihre Überzeugung bestätigt]
 <br>
 
 .em13[<u>Kirstin Schmidt</u><sup>1</sup>, Tom Rosman<sup>2</sup>, Colin Cramer<sup>3</sup>, Kris-Stephen Besa<sup>4</sup> and Samuel Merk<sup>1</sup>]
@@ -143,7 +143,7 @@ use_editable(expires = 1)
   * Vertrauen in verschiedene Informationsquelle `r fontawesome::fa_i(name = "list")`
   * Vertrauen und Confirmation Bias `r fontawesome::fa_i(name = "eye-slash")`
 
-* Experimentelle Studie zu Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
+* Experimentelle Studie - Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
   * Stichprobe `r fontawesome::fa_i(name = "users")`
   * Design and Materialien `r fontawesome::fa_i(name = "align-left")`
   * Hypothesen <i class="fas fa-question"></i>
@@ -162,20 +162,42 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>]
 
-* unterschiedliche Informationsquellen wie z.B. *.white[Forschungsergebnisse]* beim professionellen Handeln berücksichtigen <br>
+* unterschiedliche Informationsquellen wie z.B. .phgreenlight[__Forschungsergebnisse__] beim professionellen Handeln berücksichtigen <br>
   &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler*innenleistung <br>
-  .em06[(z.B. Brown et al., 2017; Schildkamp, 2019)]
+  .em06[(z.B. Brown et al., 2017)]
 <br>
 <br>
-* evidenzinformiertes Handeln ist für wissenschaftliche Laien häufig herausfordernd .em06[(Bromme et al., 2010; Bromme & Goldman, 2014)]
+* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017, Hinzke et al 2020)]
 <br>
 <br>
-* Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren
-  * X
-  * XX
-  * XXX
+* zahlreiche Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren
+  * zeitliche Ressourcen
+  * Überzeugungssysteme z.B. negative Überzeugungen bezüglich der praktischen Anwendbarkeit
+  * kognitive Fähigkeiten <br>
+  .em06[(z.B. Brown et al., 2022; van Schaik et al., 2018)]
   
 ???
+- wissenschaftliche Evidenz bietet kein Rezeptwissen, das direkt anwendbar ist, aber kann genutzt werden um Erfahrungs- und Kontextwissen anzureichen und letztlich professionelle Handlungen stimulieren, reflektieren, verändern
+
+---
+## .phgreenlight[Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>]
+
+* unterschiedliche Informationsquellen wie z.B. .phgreenlight[__Forschungsergebnisse__] beim professionellen Handeln berücksichtigen <br>
+  &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler*innenleistung <br>
+  .em06[(z.B. Brown et al., 2017)]
+<br>
+<br>
+* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017, Hinzke et al 2020)]
+<br>
+<br>
+* zahlreiche Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren 
+  * zeitliche Ressourcen
+  * Überzeugungssysteme z.B. negative Überzeugungen bezüglich der praktischen Anwendbarkeit
+  * .phgreenlight[__kognitive Fähigkeiten__] <br>
+  .em06[(z.B. Brown et al., 2022; van Schaik et al., 2018)]
+  
+???
+- wissenschaftliche Evidenz bietet kein Rezeptwissen, das direkt anwendbar ist, aber kann genutzt werden um Erfahrungs- und Kontextwissen anzureichen und letztlich professionelle Handlungen stimulieren, reflektieren, verändern
 
 ---
 class: inverse, center, middle
@@ -187,13 +209,13 @@ class: inverse, center, middle
 ## .phgreenlight[Bewertung wissenschaftlicher Evidenz <br> aus zweiter Hand `r fontawesome::fa_i(name = "check")`]
 
 
-- Lehrpersonen bewerten wissenschaftliche Evidenz häufig aus zweiter Hand, d.h. sie bewerten nicht ihren Wahrheitsgehalt, sondern ihre Glaub- und Vertrauenswürdigkeit (z.B. Bromme et al., 2010; Merk & Rosman, 2019).
+- Lehrpersonen bewerten wissenschaftliche Evidenz häufig aus zweiter Hand, d.h. sie bewerten nicht ihren Wahrheitsgehalt, sondern ihre Glaub- und Vertrauenswürdigkeit. .em06[(z.B. Bromme et al., 2010; Merk & Rosman, 2019)]
 <br> 
 <br>
-- Vertrauen als zentraler Prädiktor, inwieweit wissenschaftliche Evidenz positiv evaluiert und berücksichtigt wird (Bromme et al.,2022; Hendriks et al., 2016)
+- .phgreenlight[__Vertrauen__] als zentraler Prädiktor, inwieweit wissenschaftliche Evidenz positiv evaluiert und berücksichtigt wird .em06[(Bromme et al.,2022; Hendriks et al., 2016)]
 <br>
 <br>
-- subjektive Kriterien wie beispielsweise Überzeugungen können die Bewertung von Vertrauen beeinflussen (z.B. Dietz & Den Hartong, 2006, Blöbaum, 2016)
+- subjektive Kriterien wie beispielsweise Überzeugungen können die Bewertung von Vertrauen beeinflussen .em06[(z.B. Dietz & Den Hartong, 2006, Blöbaum, 2016)]
 
 ???
 Kann der Information oder der Person bzw. der Einrichtung vertraut werden, die die Information zur Verfügung stellt?
@@ -209,10 +231,10 @@ wie zuvor erläutert Bewertung wissenschaftlicher Evidenz erster Hand ist für L
 * (angehende) Lehrpersonen berücksichtigen in ihrer Praxis primär anekdotische Evidenz .em06[(z.B.Buehl & Fives, 2009)]
 <br>
 <br>
-* (angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen
-  + Bildungswissenschaftler:innen = "smart but evil" (Merk & Rosman,2019)
-  + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen (Rosman & Merk, 2021)
-  + höheres Vertrauen in Lehrpersonen als Wissenschaftler:innen, wenn es um praktischen Rat geht (Hendriks et al., 2021)
+* .phgreenlight[__(angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen__]
+  + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman,2019)]
+  + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen .em06[(Rosman & Merk, 2021)]
+  + höheres Vertrauen in Lehrpersonen als Wissenschaftler:innen, wenn es um praktischen Rat geht .em06[(Hendriks et al., 2021)]
 <br>
 <br>
 
@@ -230,15 +252,17 @@ Wissenschaftler mehr Expertise, aber weniger Benovolence und Integrität als bei
 * (angehende) Lehrpersonen berücksichtigen in ihrer Praxis primär anekdotische Evidenz .em06[(z.B.Buehl & Fives, 2009)]
 <br>
 <br>
-* (angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen
-  + Bildungswissenschaftler:innen = "smart but evil" (Merk & Rosman,2019)
-  + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen (Rosman & Merk, 2021)
-  + höheres Vertrauen in Lehrpersonen als Wissenschaftler:innen, wenn es um praktischen Rat geht (Hendriks et al., 2021)
+* .phgreenlight[__(angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen__]
+  + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman,2019)]
+  + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen .em06[(Rosman & Merk, 2021)]
+  + höheres Vertrauen in Lehrpersonen als Wissenschaftler:innen, wenn es um praktischen Rat geht .em06[(Hendriks et al., 2021)]
 <br>
 <br>
 
-<center>
-.content-box-phgreen[Anekdotische Evidenz, die wissenschaftlich nicht haltbar ist, verbreitet sich im Alltag und führt zu <br> ineffektiver oder gar dysfunktionaler Praxis]</center>
+
+.content-box-phgreen[Anekdotische Evidenz, die wissenschaftlich nicht haltbar ist, verbreitet sich im Alltag &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br> und führt zu ineffektiver oder sogar dysfunktionaler Praxis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+
+<!-- @SA oder besser konkretes Beispiel z.B. Zeitverschwendung, da Materialien nach Lernstilen erstellt werden --> 
 
 ???
 
@@ -274,6 +298,8 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
       * Lehramtsstudierende weisen eher einen Confirmation Bias als einen Hindsight Bias bei der Bewertung wissenschaftlicher Studien auf .em06[(Masnick & Zimmermann, 2009)]
 <br>
 <br>
+
+<!-- @Sa hier formatiert es mir die Schriftgröße bei den Referenzen zu ConfBias im Bildungskontext nicht - kannst du mir weiterhelfen? -->
 
 ???
 und primär mit Blick auf Evaluation erster Hand
@@ -298,9 +324,11 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 <br>
 <br>
 
-<center>
-.content-box-phgreen[Einseitige oder fehlende Bezugnahme auf wissenschaftliche Evidenz kann eine adäquate Realisierung evidenz-informierter Praxis erschweren oder gar verhindern]
-</center>
+
+.content-box-phgreen[Einseitiger oder fehlender Bezug zu wissenschaftliche Evidenz  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> kann eine angemessene Realisierung evidenzinformierter Praxis erschweren oder sogar verhindern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
+
+<!-- @SA oder auch hier ein konkretes Beispiel. Hier wäre ein Beispiel schön zu dem es bisher kontroverse Forschungsergebnisse gibt --> 
+
 ???
 
 Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
@@ -308,7 +336,7 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 ---
 class: inverse, center, middle
 
-# Experimentelle Studie zu Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
+# Experimentelle Studie - <br> Überzeugungen von Lehrpersonen und deren Einfluss auf Vetrauen <i class="fas fa-search"></i>
 
 ---
 
@@ -339,11 +367,11 @@ class: inverse, center, middle
 
 <br>
 
-H<sub>1</sub>: Wenn Lehrpersonen Aussagen zu bestimmten Themen aus der Bildungswissenschaft präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn diese angeblich von einem anderen Lehrperson stammen (anekdotische Evidenz)], als einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
+H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftlichen Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einem anderen Lehrperson stammen (anekdotische Evidenz)], als einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
 
 <br>
 
-H<sub>2</sub>: Wenn Lehrpersonen mit bestimmten bildungswissenschaftlichen Aussagen konfrontiert sind, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn diese konsistent zu ihren Überzeugungen] sind (statt inkonsistent).
+H<sub>2</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftlichen Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie konsistent zu ihren Überzeugungen] sind (statt inkonsistent).
 
 
 ???
@@ -357,14 +385,6 @@ class: hide_logo
 background-image: url("images/Material_1.png")
 background-size: contain
 background-color: white
-
-
-```{css slide-number-off, echo=F, warning=FALSE, message=FALSE}
-.remark-slide-number {
-  display: none;
-}
-```
-
 
 ???
 
@@ -398,7 +418,7 @@ background-color: white
 ---
 
 class: hide_logo
-background-image: url("images/MeansSD_weighted.jpg")
+background-image: url("images/MeansSD_weighted_AEPF.jpg")
 background-size: contain
 background-color: white
 
@@ -406,13 +426,7 @@ background-color: white
 ???
 
 ---
-## .phgreenlight[Ergebnisse - Hypothese 2]
-
----
-
-class: hide_logo
-background-image: url("images/study_two_results_differencevariable.png")
-background-size: contain
+## .phgreenlight[(vorläufige) Ergebnisse <i class="far fa-chart-bar"></i>]
 
 
 ---
@@ -428,14 +442,21 @@ class: inverse, center, middle
 ## .phgreenlight[Diskussion <i class="fab fa-weixin"></i>]
 
 
-* im Gegensatz zu bisherigen Studien, vertrauen die befragten Lehrpersonen der wissenschaftlichen Evidenz mehr als der anekdotischen Evidenz <br>
-&rarr; konkrete Aussagen <br>
-&rarr; Publikationsorgan <br>
+`r fontawesome::fa_i(name = "surprise")`
+* .phgreenlight[im Gegensatz zu bisherigen Studien, vertrauen die befragten Lehrpersonen stärker in wissenschaftliche Evidenz als in anekdotische Evidenz] <br>
+* mögliche Erklärungen für diese unterschiedlichen Ergebnisse: 
+  * Vertrauen in konkrete Aussagen vs. Vertrauen in Quellen ohne inhaltliche Aussagen
+  * Beeinflussung durch Publikationsorgan (wissenschaftliche Zeitschrift vs. Lehrerblog) <br> &rarr; Informationen aus sozialen Medien werden im Vergleich zu wissenschaftlicher und anektodischer Evidenz weniger vertrauenswürdig eingeschätzt (Braten)
+<br>
 <br>
 <br> 
-* im Einklang mit bisherigen Studien, weisen die Lehrpersonen einen starken Confirmation Bias auf <br> 
-&rarr; globales Misstrauen in Bildungswissenschaften scheint nicht das Problem zu sein, viel eher ein selektives Vertrauen
-Stärke der Überzeugungen
+
+`r fontawesome::fa_i(name = "check-double")`
+* .phgreenlight[im Einklang mit bisherigen Studien, weisen die befragten Lehrpersonen einen starken Confirmation Bias auf] <br> 
+  * selektives Vertrauen und folglich selektive Bezugnahme auf wissenschaftliche Evidenz als Barriere evidenzinformierter Praxis
+  * Implikationen für weitere Studien: 
+      + Berücksichtigung der Stärke der Überzeugungen
+      + Analyse weiterer Selektionskriterien wie z.B. 
 
 
 ???
