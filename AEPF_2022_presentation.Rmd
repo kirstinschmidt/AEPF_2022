@@ -340,6 +340,22 @@ class: inverse, center, middle
 
 ---
 
+## .phgreenlight[Hypothesen <i class="fas fa-question"></i>]
+
+<br>
+
+H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftliche Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einer anderen Lehrperson stammen (anekdotische Evidenz)], als von einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
+
+<br>
+
+H<sub>2</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftlichen Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie konsistent zu ihren Überzeugungen] sind (statt inkonsistent).
+
+
+???
+
+
+---
+
 ## .phgreenlight[Stichprobe `r fontawesome::fa_i(name = "users")`]
 
 <center> .phgreenlight[*N* = 414 Lehrpersonen in Deutschland] </center>
@@ -356,29 +372,6 @@ class: inverse, center, middle
 .phgreenlight[&rarr; repräsentative Stichprobe] <br>
 .em06[(vgl. Destatis, 2019)]
 
-???
-
-- To answer this research question, we conducted an online experiment with 233 student teachers from the KA University of Eduaction.
-- here you can get a quick impression of the demographics of our sample- most important information is that our participants were mostly female and studied at least one STEM subject
-
----
-
-## .phgreenlight[Hypothesen <i class="fas fa-question"></i>]
-
-<br>
-
-H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftliche Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einer anderen Lehrperson stammen (anekdotische Evidenz)], als von einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
-
-<br>
-
-H<sub>2</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftlichen Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie konsistent zu ihren Überzeugungen] sind (statt inkonsistent).
-
-
-???
-
-- To test this hypothesis we conducted a Bayesian ANOVA.
-
-- And this led to the following results:
 
 ---
 class: hide_logo
@@ -457,11 +450,11 @@ class: inverse, center, middle
 `r fontawesome::fa_i(name = "check-double")`
 * .phgreenlight[im Einklang mit bisherigen Studien weisen die befragten Lehrpersonen einen starken Confirmation Bias auf] <br> 
   * selektives Vertrauen und folglich selektive Bezugnahme auf wissenschaftliche Evidenz als Barriere evidenzinformierter Praxis
-  * Implikationen für weitere Studien: 
-      + Berücksichtigung der Stärke der Überzeugungen (vgl. z.B. Taber & Lodge, 2006)
-      + Analyse weiterer Selektionskriterien wie z.B. bildungswissenschaftliche Kompetenz der Lehrperson, Forschungsparadigmen
+<br>
+<br>
 
-
+`r fontawesome::fa_i(name = "check-double")`
+* Vertrauen nicht Umgang mit Evidenz untersucht
 ???
 
 ---
