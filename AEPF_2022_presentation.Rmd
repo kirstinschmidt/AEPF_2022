@@ -428,27 +428,27 @@ class: inverse, center, middle
 ## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
 
 .em08[
-Andersen (2020)
-Blöbaum (2016) <br>
-Braten, I & F <br> 
-Bromme, R., et al. (2010) <br>
-Bromme et al. (2022) <br>
-Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. Frontiers in Education, 7, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
-Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
-Buel & Fives (2009)
-Destatis (2019) <br>
-Dietz & Den Hartong (2006) <br>
-Hart et al (2009) <br>
-Hendriks et al (2016) <br>
-Hendriks et al (2021) <br>
-Hinzke et al (2020) <br>
-Masnick & Zimmermann (2009) <br>
-Merk & Rosman (2019) <br>
-Nickerson (1998) <br>
-Rosman & Merk (2021) <br>
-Stroud (2017) <br>
+Andersen, I. G. (2020). What went wrong? Examining teachers’ data use and instructional decision making through a bottom-up data intervention in Denmark. *International Journal of Educational Research 102*, 101585. doi:10.1016/j.ijer.2020.101585 <br>
+Blöbaum, B. (2016). Key factors in the process of trust. On the analysis of trust under digital conditions. In Trust and Communication in a Digitized World, ed. B. Blöbaum (Cham: Springer International Publishing). 3–25. doi:10.1007/978-3-319-28059-2_1 <br>
+Braten, I. and Ferguson, L. E. (2015). Beliefs about sources of knowledge predict motivation for learning in teacher education. *Teaching and Teacher Education 50*, 13–23. doi:10.1016/j.tate.2015.04.003 <br> 
+Bromme, R., Kienhues, D., and Porsch, T. (2010). Who knows what and who can we believe? Epistemological beliefs are beliefs about knowledge (mostly) to be attained from others. In Personal Epistemology in the Classroom, eds. L. D. Bendixen and F. C. Feucht (Cambridge: Cambridge University Press). 163–194. doi:10.1017/CBO9780511691904.006475 <br>
+Bromme, R., Mede, N. G., Thomm, E., Kremer, B., and Ziegler, R. (2022). An anchor in troubled times: Trust in science before and within the COVID-19 pandemic. *PLOS ONE 17*, e0262823. doi:10.1371/journal.pone.0262823 <br>
+Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. *Frontiers in Education, 7*, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
+Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. *Educational Research, 59* (2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
+Buehl, M. M. and Fives, H. (2009). Exploring teachers’ beliefs about teaching knowledge: Where does it come from? Does it change? *Journal of Experimental Education 77*, 367–407. doi:10.3200/JEXE.77.4.367-408 <br>
+Destatis (2019). Bildung, Forschung und Kultur (education, research and culture). Genesis-Online <br>
+Dietz, G. and Den Hartog, D. N. (2006). Measuring trust inside organisations. *Personnel Review 35*, 557–588. doi:10.1108/00483480610682299 <br>
+Hart, W., Albarracin, D., Eagly, A. H., Brechan, I., Lindberg, M. J., and Merrill, L. (2009). Feeling validated versus being correct: A meta-analysis of selective exposure to information. *Psychological Bulletin 135*, 555–588. doi:10.1037/a0015701 <br>
+Hendriks, F., Kienhues, D., and Bromme, R. (2016). Trust in science and the science of trust. In Trust and Communication in a Digitized World, ed. B. Bläbaum (Cham: Springer International Publishing). 143–159. d doi:10.1007/978-3-319-28059-2_8 <br>
+Hendriks, F., Seifried, E., and Menz, C. (2021). Unraveling the “smart but evil” stereotype: Pre-service teachers’ evaluations of educational psychology researchers versus teachers as sources of information. *Zeitschrift für Pädagogische Psychologie 35*, 157–171. doi:10.1024/1010-0652/a000300 <br>
+Hinzke, J.-H., Gesang, J., and Besa, K.-S. (2020). Zur Erschließung der Nutzung von Forschungsergebnissen durch Lehrpersonen. Forschungsrelevanz zwischen Theorie und Praxis (exploration of the use of research results by teachers. relevance of research between theory and practice). *Zeitschrift für Erziehungswissenschaft 23*, 1303–1323. doi:10.1007/s11618-020-00982-6 <br>
+Masnick, A. M. and Zimmerman, C. (2009). Evaluating scientific research in the context of prior belief: Hindsight bias or confirmation bias? *Journal of Psychology of Science and Technology 2*, 29–36. doi:10.1891/1939-7054.2.1.29 <br>
+Merk, S. and Rosman, T. (2019). Smart but evil? Student-Teachers’ perception of educational researchers’ epistemic trustworthiness. *AERA Open 5*, 233285841986815. doi:10.1177/2332858419868158 <br>
+Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology 2*, 175–220. doi:10.1037/1089-2680.2.2.175 <br>
+Rosman, T. and Merk, S. (2021). Teacher’s reasons for trust and distrust in scientific evidence: Reflecting a “smart but evil” stereotype? *AERA Open 7*, 23328584211028599. doi:10.1177/23328584211028599 <br>
+Stroud, N. J. (2017). Understanding and overcoming selective exposure and judgment when communicating about science. In The Oxford Handbook of the Science of Science Communication, eds. K. H. Jamieson, D. M. Kahan, and D. A. Scheufele (Oxford University Press), vol. 1. 377–388. doi:10.1093/oxfordhb/9780190497620.013.41 <br>
 Taber & Lodge (2006) <br>
-Van Lommel et al. (2017)
+Vanlommel, K., Van Gasse, R., Vanhoof, J., and Van Petegem, P. (2017). Teachers’ decision-making: Data based or intuition driven? *International Journal of Educational Research 83*, 75–83. doi:10.1016/j.ijer.2017.02.013 <br>
 Van Schaik et al (2018)
 ]
 
