@@ -427,7 +427,7 @@ class: inverse, center, middle
 ---
 ## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
 
-.em06[
+.em05[
 Andersen, I. G. (2020). What went wrong? Examining teachers’ data use and instructional decision making through a bottom-up data intervention in Denmark. *International Journal of Educational Research, 102*, 101585. https://doi.org/10.1016/j.ijer.2020.101585 <br>
 Blöbaum, B. (2016). Key factors in the process of trust. On the analysis of trust under digital conditions. In B. Blöbaum (Ed.), *In Trust and Communication in a Digitized World. Springer International Publishing* (pp. 3–25). https://doi.org/10.1007/978-3-319-28059-2_1 <br>
 Braten, I., & Ferguson, L. E. (2015). Beliefs about sources of knowledge predict motivation for learning in teacher education. *Teaching and Teacher Education, 50*, 13–23. https://doi.org/10.1016/j.tate.2015.04.003 <br> 
