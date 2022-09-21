@@ -127,7 +127,7 @@ use_editable(expires = 1)
 <br>
 <br>
 <br>
-<br>
+.phgreen[Präsentation verfügbar unter ] <br>
 .phgreen[Einzelbeitrag AEPF 2022| 22.09.2022]  
 
 ???
@@ -167,7 +167,7 @@ class: inverse, center, middle
   .em06[(z.B. Brown et al., 2017)]
 <br>
 <br>
-* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017; Hinzke et al., 2020)]
+* wissenschaftliche Evidenz wird in der Praxis häufig nicht berücksichtigt .em06[(z.B. Brown et al., 2017; Hinzke et al., 2020)]
 <br>
 <br>
 * zahlreiche Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren
@@ -179,8 +179,6 @@ class: inverse, center, middle
   
 ???
 
-- wissenschaftliche Evidenz bietet kein Rezeptwissen, das direkt anwendbar ist, aber kann genutzt werden um Erfahrungs- und Kontextwissen anzureichen und letztlich professionelle Handlungen stimulieren, reflektieren, verändern
-
 ---
 ## .phgreenlight[Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>]
 
@@ -189,7 +187,7 @@ class: inverse, center, middle
   .em06[(z.B. Brown et al., 2017)]
 <br>
 <br>
-* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017; Hinzke et al., 2020)]
+* wissenschaftliche Evidenz wird in der Praxis häufig nicht berücksichtigt .em06[(z.B. Brown et al., 2017; Hinzke et al., 2020)]
 <br>
 <br>
 * zahlreiche Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren 
@@ -200,8 +198,6 @@ class: inverse, center, middle
   
   
 ???
-
-- wissenschaftliche Evidenz bietet kein Rezeptwissen, das direkt anwendbar ist, aber kann genutzt werden um Erfahrungs- und Kontextwissen anzureichen und letztlich professionelle Handlungen stimulieren, reflektieren, verändern
 
 ---
 class: inverse, center, middle
@@ -222,8 +218,7 @@ class: inverse, center, middle
 - subjektive Kriterien wie beispielsweise Überzeugungen können die Bewertung von Vertrauen beeinflussen .em06[(z.B. Dietz & Den Hartong, 2006; Blöbaum, 2016)]
 
 ???
-Kann der Information oder der Person bzw. der Einrichtung vertraut werden, die die Information zur Verfügung stellt?
-wie zuvor erläutert Bewertung wissenschaftlicher Evidenz erster Hand ist für Lehrpersonen sehr herausfordernd 
+
 ---
 
 ### .phgreenlight[Vertrauen in verschiedene Informationsquellen `r fontawesome::fa_i(name = "list")`]
@@ -243,7 +238,6 @@ wie zuvor erläutert Bewertung wissenschaftlicher Evidenz erster Hand ist für L
 <br>
 
 ???
-Wissenschaftler mehr Expertise, aber weniger Benovolence und Integrität als bei praktizierenden Lehrpersonen
 
 ---
 
@@ -266,7 +260,6 @@ Wissenschaftler mehr Expertise, aber weniger Benovolence und Integrität als bei
 
 .content-box-phgreen[Anekdotische Evidenz, die wissenschaftlich nicht haltbar ist, verbreitet sich im Alltag &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br> und führt zu ineffektiver oder sogar dysfunktionaler Praxis &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
 
-<!-- @SA oder besser konkretes Beispiel z.B. Zeitverschwendung, da Materialien nach Lernstilen erstellt werden --> 
 
 ???
 
@@ -283,8 +276,6 @@ Wissenschaftler mehr Expertise, aber weniger Benovolence und Integrität als bei
 
 ???
 
-Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
-  
 ---
 ### .phgreenlight[Vertrauen und Confirmation Bias `r fontawesome::fa_i(name = "eye-slash")`]
 
@@ -301,14 +292,9 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 <br>
 <br>
 
-<!-- @Sa hier formatiert es mir die Schriftgröße bei den Referenzen zu ConfBias im Bildungskontext nicht - kannst du mir weiterhelfen? -->
 
 ???
-qualitative Analysen: Van Lommel und Andersen; quantitative Analyse Masnick & Zimmermann
-und primär mit Blick auf Evaluation erster Hand
 
-Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
-  
 ---
 ### .phgreenlight[Vertrauen und Confirmation Bias `r fontawesome::fa_i(name = "eye-slash")`]
 
@@ -327,12 +313,9 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 
 .content-box-phgreen[Einseitiger oder fehlender Bezug zu wissenschaftlicher Evidenz  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> kann eine angemessene Realisierung evidenzinformierter Praxis erschweren oder sogar verhindern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
 
-<!-- @SA oder auch hier ein konkretes Beispiel. Hier wäre ein Beispiel schön zu dem es bisher kontroverse Forschungsergebnisse gibt --> 
 
 ???
 
-Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
-  
 ---
 class: inverse, center, middle
 
@@ -381,22 +364,6 @@ background-color: white
 
 ???
 
-- Our study materials included scientific study reports on two different topics from educational research in which either a small, a large or no anchor was included.
-- Here you can see an example of such a study report on discovery learning
-- Let me explain the material and design in more detail
-- In general, the study reports were structured identically: 
-- They first informed about 
-  - the research question - a group of educational researchers was interested in, 
-  - then about the experimental design of the study with one experimental and one control group
-  - as well as the drawn sample size to investigate the research question.
-- Each student teacher randomly received two different study reports where the drawn sample size also varied randomly - either a small sample size of 15 participants or a large sample size of 500 participants per group.
-- This approach resulted in 
-  - two control groups, where student teachers were presented with the same sample size in both study reports, so no anchor was set, e.g., two times 15 participants 
-  - and two experimental groups either with a small or a large anchor. For example the first EG was presented with a small anchor - a sample size of 15 and then a large sample size of 500 participants
-- After reading the study report, participants both in the ExperimentalGs and CGs had to answer different questions.
-- For today's presentation only one of these questions is important, namely the one right at the bottom outlined in green.
-- Referring to this, the student teachers had to decide whether ‘the number of sampled students is appropriate to answer the research question' 
-- they had to give their answer on a Likert-scale ranging from totally disagree to totally agree
 
 ---
 
@@ -445,16 +412,16 @@ class: inverse, center, middle
   * Beeinflussung durch Publikationsorgan (wissenschaftliche Zeitschrift vs. Lehrerblog) <br> &rarr; Informationen aus sozialen Medien werden im Vergleich zu wissenschaftlicher und anekdotischer Evidenz weniger vertrauenswürdig eingeschätzt (Braten & Ferguson, 2015)
 <br>
 <br>
-<br> 
 
 `r fontawesome::fa_i(name = "check-double")`
 * .phgreenlight[im Einklang mit bisherigen Studien weisen die befragten Lehrpersonen einen starken Confirmation Bias auf] <br> 
-  * selektives Vertrauen und folglich selektive Bezugnahme auf wissenschaftliche Evidenz als Barriere evidenzinformierter Praxis
+  * selektives Vertrauen könnte zu einseitiger Nutzung von wissenschaftliche Evidenz führen
 <br>
 <br>
 
-`r fontawesome::fa_i(name = "check-double")`
-* Vertrauen nicht Umgang mit Evidenz untersucht
+`r fontawesome::fa_i(name = "bolt")`
+* in der vorliegenden Studie wurde Vertrauen, nicht Umgang mit oder Verwendung von Evidenz untersucht
+
 ???
 
 ---
