@@ -139,7 +139,7 @@ use_editable(expires = 1)
 ## .phgreenlight[Struktur `r fontawesome::fa_i(name = "list-ul")`]
 * Evidenzinformierte Schulpraxis  <i class="fas fa-school"></i>
 
-* Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "check")`
+* Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "hands-helping")`
   * Vertrauen in verschiedene Informationsquellen `r fontawesome::fa_i(name = "list")`
   * Vertrauen und Confirmation Bias `r fontawesome::fa_i(name = "eye-slash")`
 
@@ -163,53 +163,57 @@ class: inverse, center, middle
 ## .phgreenlight[Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>]
 
 * unterschiedliche Informationsquellen wie z.B. .phgreenlight[__Forschungsergebnisse__] beim professionellen Handeln berücksichtigen <br>
-  &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler*innenleistung <br>
+  &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler:innenleistung <br>
   .em06[(z.B. Brown et al., 2017)]
 <br>
 <br>
-* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017, Hinzke et al 2020)]
+* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017; Hinzke et al., 2020)]
 <br>
 <br>
 * zahlreiche Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren
   * zeitliche Ressourcen
   * Überzeugungssysteme z.B. negative Überzeugungen bezüglich der praktischen Anwendbarkeit
-  * kognitive Fähigkeiten <br>
+  * kognitive Fähigkeiten / Kompetenzen <br>
   .em06[(z.B. Brown et al., 2022; van Schaik et al., 2018)]
   
+  
 ???
+
 - wissenschaftliche Evidenz bietet kein Rezeptwissen, das direkt anwendbar ist, aber kann genutzt werden um Erfahrungs- und Kontextwissen anzureichen und letztlich professionelle Handlungen stimulieren, reflektieren, verändern
 
 ---
 ## .phgreenlight[Evidenzinformierte Schulpraxis <i class="fas fa-school"></i>]
 
 * unterschiedliche Informationsquellen wie z.B. .phgreenlight[__Forschungsergebnisse__] beim professionellen Handeln berücksichtigen <br>
-  &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler*innenleistung <br>
+  &rarr; Steigerung von Schulqualität, Unterrichtsqualität und Schüler:innenleistung <br>
   .em06[(z.B. Brown et al., 2017)]
 <br>
 <br>
-* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017, Hinzke et al 2020)]
+* evidenzinformiertes Handeln ist komplex und wird in der Praxis häufig nicht umgesetzt .em06[(z.B. Brown et al., 2017; Hinzke et al., 2020)]
 <br>
 <br>
 * zahlreiche Barrieren, die Lehrpersonen evidenzinformiertes Handeln erschweren 
   * zeitliche Ressourcen
   * Überzeugungssysteme z.B. negative Überzeugungen bezüglich der praktischen Anwendbarkeit
-  * .phgreenlight[__kognitive Fähigkeiten__] <br>
+  * .phgreenlight[__kognitive Fähigkeiten / Kompetenzen__] <br>
   .em06[(z.B. Brown et al., 2022; van Schaik et al., 2018)]
   
+  
 ???
+
 - wissenschaftliche Evidenz bietet kein Rezeptwissen, das direkt anwendbar ist, aber kann genutzt werden um Erfahrungs- und Kontextwissen anzureichen und letztlich professionelle Handlungen stimulieren, reflektieren, verändern
 
 ---
 class: inverse, center, middle
 
-# Bewertung wissenschaftlicher Evidenz <br> aus zweiter Hand `r fontawesome::fa_i(name = "check")`
+# Vertrauen in wissenschaftliche Evidenz `r fontawesome::fa_i(name = "hands-helping")`
 
 
 ---
-## .phgreenlight[Bewertung wissenschaftlicher Evidenz <br> aus zweiter Hand `r fontawesome::fa_i(name = "check")`]
+## .phgreenlight[Bewertung wissenschaftlicher Evidenz <br> aus zweiter Hand `r fontawesome::fa_i(name = "hands-helping")`]
 
 
-- Lehrpersonen bewerten wissenschaftliche Evidenz häufig aus zweiter Hand, d.h. sie bewerten nicht ihren Wahrheitsgehalt, sondern ihre Glaub- und Vertrauenswürdigkeit. .em06[(z.B. Bromme et al., 2010; Merk & Rosman, 2019)]
+- Lehrpersonen bewerten wissenschaftliche Evidenz häufig aus zweiter Hand, d.h. sie bewerten nicht ihren Wahrheitsgehalt, sondern ihre Glaub- und Vertrauenswürdigkeit .em06[(z.B. Merk & Rosman, 2019)]
 <br> 
 <br>
 - .phgreenlight[__Vertrauen__] als zentraler Prädiktor, inwieweit wissenschaftliche Evidenz positiv evaluiert und berücksichtigt wird .em06[(Bromme et al.,2022; Hendriks et al., 2016)]
@@ -225,16 +229,16 @@ wie zuvor erläutert Bewertung wissenschaftlicher Evidenz erster Hand ist für L
 ### .phgreenlight[Vertrauen in verschiedene Informationsquellen `r fontawesome::fa_i(name = "list")`]
 
 * Lehrpersonen können bei praktischen Entscheidungen auf unterschiedliche Informationsquellen zurückgreifen <br> 
-&rarr; Informationsquellen reichen dabei von anekdotischer (z.B. eigene Lehrerfahrung, Ratschläge von Kolleg:innen) bis hin zu wissenschaftlicher Evidenz .em06[(z.B.Buehl & Fives, 2009)]
+&rarr; Informationsquellen reichen dabei von anekdotischer (z.B. eigene Lehrerfahrung, Ratschläge von Kolleg:innen) bis hin zu wissenschaftlicher Evidenz .em06[(z.B. Buehl & Fives, 2009)]
 <br>
 <br>
-* (angehende) Lehrpersonen berücksichtigen in ihrer Praxis primär anekdotische Evidenz .em06[(z.B.Buehl & Fives, 2009)]
+* (angehende) Lehrpersonen berücksichtigen in ihrer Praxis primär anekdotische Evidenz .em06[(z.B. Buehl & Fives, 2009)]
 <br>
 <br>
 * .phgreenlight[__(angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen__]
-  + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman,2019)]
+  + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman, 2019)]
   + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen .em06[(Rosman & Merk, 2021)]
-  + höheres Vertrauen in Lehrpersonen als Wissenschaftler:innen, wenn es um praktischen Rat geht .em06[(Hendriks et al., 2021)]
+  + vor allem bei der Suche nach praktischem Rat .em06[(Hendriks et al., 2021)]
 <br>
 <br>
 
@@ -246,16 +250,16 @@ Wissenschaftler mehr Expertise, aber weniger Benovolence und Integrität als bei
 ### .phgreenlight[Vertrauen in verschiedene Informationsquellen `r fontawesome::fa_i(name = "list")`]
 
 * Lehrpersonen können bei praktischen Entscheidungen auf unterschiedliche Informationsquellen zurückgreifen<br> 
-&rarr; Informationsquellen reichen dabei von anekdotischer (z.B. eigene Lehrerfahrung, Ratschläge von Kolleg:innen) bis hin zu wissenschaftlicher Evidenz .em06[(z.B.Buehl & Fives, 2009)]
+&rarr; Informationsquellen reichen dabei von anekdotischer (z.B. eigene Lehrerfahrung, Ratschläge von Kolleg:innen) bis hin zu wissenschaftlicher Evidenz .em06[(z.B. Buehl & Fives, 2009)]
 <br>
 <br>
 * (angehende) Lehrpersonen berücksichtigen in ihrer Praxis primär anekdotische Evidenz .em06[(z.B.Buehl & Fives, 2009)]
 <br>
 <br>
 * .phgreenlight[__(angehende) Lehrpersonen vertrauen anderen Lehrpersonen mehr als Wissenschaftler:innen__]
-  + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman,2019)]
+  + Bildungswissenschaftler:innen = "smart but evil" .em06[(Merk & Rosman, 2019)]
   + fehlende Integrität und Benevolenz als Gründe für Misstrauen in Bildungswissenschaftler:innen .em06[(Rosman & Merk, 2021)]
-  + vor allem bei der Sucha nach praktischem Rat .em06[(Hendriks et al., 2021)]
+  + vor allem bei der Suche nach praktischem Rat .em06[(Hendriks et al., 2021)]
 <br>
 <br>
 
@@ -291,17 +295,16 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 <br>
 <br>
 * .phgreenlight[im Bildungskontext ist Confirmation Bias] bisher wenig systematisch erforscht
-  + qualitative Analysen:
-      * Lehrpersonen suchen nicht nach Daten, die ihre Meinung herausfordern / in Frage stellen .em06[(Van Lommel et al., 2017)]
-      * Wenn Daten nicht zu den Einschätzungen der Lehrperson passen, suchen sie nach Erklärungen, warum die Daten falsch sein könnten .em06[(Andersen, 2020)]
-  + quantitative Analyse:
-      * Lehramtsstudierende weisen eher einen Confirmation Bias als einen Hindsight Bias bei der Bewertung wissenschaftlicher Studien auf .em06[(Masnick & Zimmermann, 2009)]
+  * Lehrpersonen suchen nicht nach Daten, die ihre Meinung herausfordern / in Frage stellen .em06[(Van Lommel et al., 2017)]
+  * Wenn Daten nicht zu den Einschätzungen der Lehrperson passen, suchen sie nach Erklärungen, warum die Daten falsch sein könnten .em06[(Andersen, 2020)]
+  * Lehramtsstudierende weisen eher einen Confirmation Bias als einen Hindsight Bias bei der Bewertung wissenschaftlicher Studien auf .em06[(Masnick & Zimmermann, 2009)]
 <br>
 <br>
 
 <!-- @Sa hier formatiert es mir die Schriftgröße bei den Referenzen zu ConfBias im Bildungskontext nicht - kannst du mir weiterhelfen? -->
 
 ???
+qualitative Analysen: Van Lommel und Andersen; quantitative Analyse Masnick & Zimmermann
 und primär mit Blick auf Evaluation erster Hand
 
 Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
@@ -316,14 +319,11 @@ Beispiel für Conf Bias (mit Beispiel für Informationsquellen verbinden)
 <br>
 <br>
 * .phgreenlight[im Bildungskontext ist Confirmation Bias] bisher wenig systematisch erforscht
-  + qualitative Analysen:
-     * Lehrpersonen suchen nicht nach Daten, die ihre Meinung herausfordern / in Frage stellen .em06[(Van Lommel et al., 2017)]
-      * Wenn Daten nicht zu den Einschätzungen der Lehrperson passen, suchen sie nach Erklärungen, warum die Daten falsch sein könnten .em06[(Andersen, 2020)]
-  + quantitative Analyse:
-      * Lehramtsstudierende weisen eher einen Confirmation Bias als einen Hindsight Bias bei der Bewertung wissenschaftlicher Studien auf .em06[(Masnick & Zimmermann, 2009)]
+  * Lehrpersonen suchen nicht nach Daten, die ihre Meinung herausfordern / in Frage stellen .em06[(Van Lommel et al., 2017)]
+  * Wenn Daten nicht zu den Einschätzungen der Lehrperson passen, suchen sie nach Erklärungen, warum die Daten falsch sein könnten .em06[(Andersen, 2020)]
+  * Lehramtsstudierende weisen eher einen Confirmation Bias als einen Hindsight Bias bei der Bewertung wissenschaftlicher Studien auf .em06[(Masnick & Zimmermann, 2009)]
 <br>
 <br>
-
 
 .content-box-phgreen[Einseitiger oder fehlender Bezug zu wissenschaftlicher Evidenz  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br> kann eine angemessene Realisierung evidenzinformierter Praxis erschweren oder sogar verhindern &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;]
 
@@ -367,7 +367,7 @@ class: inverse, center, middle
 
 <br>
 
-H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftliche Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einem anderen Lehrperson stammen (anekdotische Evidenz)], als von einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
+H<sub>1</sub>: Wenn Lehrpersonen bestimmte bildungswissenschaftliche Aussagen präsentiert werden, zeigen sie .phgreenlight[mehr Vertrauen in diese Aussagen, wenn sie angeblich von einer anderen Lehrperson stammen (anekdotische Evidenz)], als von einer wissenschaftlichen Studie (wissenschaftliche Evidenz).
 
 <br>
 
@@ -449,7 +449,7 @@ class: inverse, center, middle
 * .phgreenlight[im Gegensatz zu bisherigen Studien vertrauen die befragten Lehrpersonen stärker wissenschaftlicher als anekdotischer Evidenz] <br>
 * mögliche Erklärungen für diese unterschiedlichen Ergebnisse: 
   * Vertrauen in konkrete Aussagen vs. Vertrauen in Quellen ohne inhaltliche Aussagen
-  * Beeinflussung durch Publikationsorgan (wissenschaftliche Zeitschrift vs. Lehrerblog) <br> &rarr; Informationen aus sozialen Medien werden im Vergleich zu wissenschaftlicher und anektodischer Evidenz weniger vertrauenswürdig eingeschätzt (Braten &...)
+  * Beeinflussung durch Publikationsorgan (wissenschaftliche Zeitschrift vs. Lehrerblog) <br> &rarr; Informationen aus sozialen Medien werden im Vergleich zu wissenschaftlicher und anekdotischer Evidenz weniger vertrauenswürdig eingeschätzt (Braten & Ferguson, 2015)
 <br>
 <br>
 <br> 
@@ -458,7 +458,7 @@ class: inverse, center, middle
 * .phgreenlight[im Einklang mit bisherigen Studien weisen die befragten Lehrpersonen einen starken Confirmation Bias auf] <br> 
   * selektives Vertrauen und folglich selektive Bezugnahme auf wissenschaftliche Evidenz als Barriere evidenzinformierter Praxis
   * Implikationen für weitere Studien: 
-      + Berücksichtigung der Stärke der Überzeugungen
+      + Berücksichtigung der Stärke der Überzeugungen (vgl. z.B. Taber & Lodge, 2006)
       + Analyse weiterer Selektionskriterien wie z.B. bildungswissenschaftliche Kompetenz der Lehrperson, Forschungsparadigmen
 
 
@@ -468,16 +468,28 @@ class: inverse, center, middle
 ## .phgreenlight[Referenzen <i class="fas fa-book-open"></i>]
 
 .em08[
-Bromme, R., Prenzel, M., & Jäger, M. (2014). Empirische Bildungsforschung und evidenzbasierte Bildungspolitik. Zeitschrift für Erziehungswissenschaft, 17(4), 3–54. https://doi.org/10.1007/s11618-014-0514-5 <br>
+Andersen (2020)
+Blöbaum (2016) <br>
+Braten, I & F <br> 
+Bromme, R., et al. (2010) <br>
+Bromme et al. (2022) <br>
 Brown, C., Macgregor, S., Flood, J., & Malin, J. (2022). Facilitating Research-Informed Educational Practice for Inclusion. Survey Findings From 147 Teachers and School Leaders in England. Frontiers in Education, 7, 890832. https://doi.org/10.3389/feduc.2022.890832 <br>
 Brown, C., Schildkamp, K., & Hubers, M. D. (2017). Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement. Educational Research, 59(2), 154–172. https://doi.org/10.1080/00131881.2017.1304327 <br>
-Destatis (2019)
-Flood, J., & Brown, C. (2020). Exploring Teachers’ Conceptual Uses of Research as Part of the Development and Scale up of Research-Informed Practices. International Journal of Education Policy and Leadership, 16(10), Article 10. https://doi.org/10.22230/ijepl.2020v16n10a927 <br>
-
-Mandinach, E. B., & Schildkamp, K. (2021). Misconceptions about data-based decision making in education: An exploration of the literature. Studies in Educational Evaluation, 69, 1–10. https://doi.org/10.1016/j.stueduc.2020.100842 <br>
-
-Schildkamp, K. (2019). Data-based decision-making for school improvement: Research insights and gaps. Educational Research, 61(3), 257–273. https://doi.org/10.1080/00131881.2019.1625716 <br>
-Stark, R. (2017). Probleme evidenzbasierter bzw. -Orientierter pädagogischer Praxis. Zeitschrift für Pädagogische Psychologie, 31(2), 99–110. https://doi.org/10.1024/1010-0652/a000201 <br>
+Buel & Fives (2009)
+Destatis (2019) <br>
+Dietz & Den Hartong (2006) <br>
+Hart et al (2009) <br>
+Hendriks et al (2016) <br>
+Hendriks et al (2021) <br>
+Hinzke et al (2020) <br>
+Masnick & Zimmermann (2009) <br>
+Merk & Rosman (2019) <br>
+Nickerson (1998) <br>
+Rosman & Merk (2021) <br>
+Stroud (2017) <br>
+Taber & Lodge (2006) <br>
+Van Lommel et al. (2017)
+Van Schaik et al (2018)
 ]
 
 
