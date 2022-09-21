@@ -116,7 +116,7 @@ use_editable(expires = 1)
 ## .phgreenlight[Lehrpersonen <br> vertrauen wissenschaftlicher Evidenz -<br> insbesondere wenn sie ihre Überzeugung bestätigt]
 <br>
 
-.em13[<u>Kirstin Schmidt</u><sup>1</sup>, Tom Rosman<sup>2</sup>, Colin Cramer<sup>3</sup>, Kris-Stephen Besa<sup>4</sup> and Samuel Merk<sup>1</sup>]
+.em13[<u>Kirstin Schmidt</u><sup>1</sup>, Tom Rosman<sup>2</sup>, Colin Cramer<sup>3</sup>, Kris-Stephen Besa<sup>4</sup> und Samuel Merk<sup>1</sup>]
 
 
 <sup>1</sup> Pädagogische Hochschule Karlsruhe <br>
