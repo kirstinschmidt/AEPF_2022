@@ -127,7 +127,7 @@ use_editable(expires = 1)
 <br>
 <br>
 <br>
-.phgreen[Präsentation verfügbar unter ] <br>
+Präsentation verfügbar unter https://kirstinschmidt.github.io/AEPF_2022/ <br>
 .phgreen[Einzelbeitrag AEPF 2022| 22.09.2022]  
 
 ???
